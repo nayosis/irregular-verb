@@ -1,0 +1,27 @@
+.exercice-page {
+    display: flex;
+    flex-direction: column;
+
+    .exercice-titre {
+        margin-top: 1em;
+        display: flex;
+        align-items: center;
+        height: 10vh;
+
+        div {
+            flex-grow: 1;
+        }
+    }
+
+    .exercice-response {
+        display: flex;
+        height: 85vh;
+
+        align-items: center;
+
+        div {
+            flex-grow: 1;
+        }
+    }
+
+}

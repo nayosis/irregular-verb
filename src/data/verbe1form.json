@@ -1,0 +1,57 @@
+[
+  {
+    "infinitive": "cost",
+    "simplePast": "cost",
+    "pastParticiple": "cost",
+    "french": "Coûter"
+  },
+  {
+    "infinitive": "cut",
+    "simplePast": "cut",
+    "pastParticiple": "cut",
+    "french": "Couper"
+  },
+  {
+    "infinitive": "hit",
+    "simplePast": "hit",
+    "pastParticiple": "hit",
+    "french": "Frapper"
+  },
+  {
+    "infinitive": "hurt",
+    "simplePast": "hurt",
+    "pastParticiple": "hurt",
+    "french": "Blesser"
+  },
+  {
+    "infinitive": "let",
+    "simplePast": "let",
+    "pastParticiple": "let",
+    "french": "Laisser"
+  },
+  {
+    "infinitive": "put",
+    "simplePast": "put",
+    "pastParticiple": "put",
+    "french": "Mettre"
+  },
+  {
+    "infinitive": "read",
+    "simplePast": "read",
+    "pastParticiple": "read",
+    "french": "Lire"
+  },
+  {
+    "infinitive": "set",
+    "simplePast": "set",
+    "pastParticiple": "set",
+    "french": "Fixer | Mettre | Placer | Installer"
+  },
+  {
+    "infinitive": "shut",
+    "simplePast": "shut",
+    "pastParticiple": "shut",
+    "french": "Fermer",
+    "commentaire": "Fermer  (sa bouche, une porte...)"
+  }
+]

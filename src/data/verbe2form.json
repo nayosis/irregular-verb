@@ -1,0 +1,242 @@
+[
+  {
+    "infinitive": "bring",
+    "simplePast": "brought",
+    "pastParticiple": "brought",
+    "french": "Apporter"
+  },
+  {
+    "infinitive": "build",
+    "simplePast": "built",
+    "pastParticiple": "built",
+    "french": "Construire"
+  },
+  {
+    "infinitive": "buy",
+    "simplePast": "bought",
+    "pastParticiple": "bought",
+    "french": "Acheter"
+  },
+  {
+    "infinitive": "catch",
+    "simplePast": "caught",
+    "pastParticiple": "caught",
+    "french": "Attraper"
+  },
+  {
+    "infinitive": "dream",
+    "simplePast": "dreamt",
+    "pastParticiple": "dreamt",
+    "french": "Rêver"
+  },
+  {
+    "infinitive": "feed",
+    "simplePast": "fed",
+    "pastParticiple": "fed",
+    "french": "Nourrir"
+  },
+  {
+    "infinitive": "feel",
+    "simplePast": "felt",
+    "pastParticiple": "felt",
+    "french": "Se sentir | Ressentir"
+  },
+  {
+    "infinitive": "fight",
+    "simplePast": "fought",
+    "pastParticiple": "fought",
+    "french": "Se battre"
+  },
+  {
+    "infinitive": "find",
+    "simplePast": "found",
+    "pastParticiple": "found",
+    "french": "Trouver"
+  },
+  {
+    "infinitive": "get",
+    "simplePast": "got",
+    "pastParticiple": "got",
+    "french": "Obtenir"
+  },
+  {
+    "infinitive": "hang",
+    "simplePast": "hung",
+    "pastParticiple": "hung",
+    "french": "Suspendre"
+  },
+  {
+    "infinitive": "have",
+    "simplePast": "had",
+    "pastParticiple": "had",
+    "french": "Avoir"
+  },
+  {
+    "infinitive": "hear",
+    "simplePast": "heard",
+    "pastParticiple": "heard",
+    "french": "Entendre"
+  },
+  {
+    "infinitive": "hold",
+    "simplePast": "held",
+    "pastParticiple": "held",
+    "french": "Tenir"
+  },
+  {
+    "infinitive": "keep",
+    "simplePast": "kept",
+    "pastParticiple": "kept",
+    "french": "Garder"
+  },
+  {
+    "infinitive": "lead",
+    "simplePast": "led",
+    "pastParticiple": "led",
+    "french": "Diriger"
+  },
+  {
+    "infinitive": "learn",
+    "simplePast": "learnt",
+    "pastParticiple": "learnt",
+    "french": "Apprendre"
+  },
+  {
+    "infinitive": "leave",
+    "simplePast": "left",
+    "pastParticiple": "left",
+    "french": "Quitter"
+  },
+  {
+    "infinitive": "lend",
+    "simplePast": "lent",
+    "pastParticiple": "lent",
+    "french": "Prêter"
+  },
+  {
+    "infinitive": "lose",
+    "simplePast": "lost",
+    "pastParticiple": "lost",
+    "french": "Perdre"
+  },
+  {
+    "infinitive": "make",
+    "simplePast": "made",
+    "pastParticiple": "made",
+    "french": "Faire | Produire"
+  },
+  {
+    "infinitive": "mean",
+    "simplePast": "meant",
+    "pastParticiple": "meant",
+    "french": "Signifier"
+  },
+  {
+    "infinitive": "meet",
+    "simplePast": "met",
+    "pastParticiple": "met",
+    "french": "Rencontrer"
+  },
+  {
+    "infinitive": "pay",
+    "simplePast": "paid",
+    "pastParticiple": "paid",
+    "french": "Payer"
+  },
+  {
+    "infinitive": "say",
+    "simplePast": "said",
+    "pastParticiple": "said",
+    "french": "Dire"
+  },
+  {
+    "infinitive": "sell",
+    "simplePast": "sold",
+    "pastParticiple": "sold",
+    "french": "Vendre"
+  },
+  {
+    "infinitive": "send",
+    "simplePast": "sent",
+    "pastParticiple": "sent",
+    "french": "Envoyer"
+  },
+  {
+    "infinitive": "sit",
+    "simplePast": "sat",
+    "pastParticiple": "sat",
+    "french": "S'assoir"
+  },
+  {
+    "infinitive": "sleep",
+    "simplePast": "slept",
+    "pastParticiple": "slept",
+    "french": "Dormir"
+  },
+  {
+    "infinitive": "spend",
+    "simplePast": "spent",
+    "pastParticiple": "spent",
+    "french": "Dépenser"
+  },
+  {
+    "infinitive": "stand",
+    "simplePast": "stood",
+    "pastParticiple": "stood",
+    "french": "Se lever"
+  },
+  {
+    "infinitive": "sweep",
+    "simplePast": "swept",
+    "pastParticiple": "swept",
+    "french": "Balayer"
+  },
+  {
+    "infinitive": "teach",
+    "simplePast": "taught",
+    "pastParticiple": "taught",
+    "french": "Enseigner"
+  },
+  {
+    "infinitive": "tell",
+    "simplePast": "told",
+    "pastParticiple": "told",
+    "french": "Dire | Raconter"
+  },
+  {
+    "infinitive": "think",
+    "simplePast": "thought",
+    "pastParticiple": "thought",
+    "french": "Penser"
+  },
+  {
+    "infinitive": "understand",
+    "simplePast": "understood",
+    "pastParticiple": "understood",
+    "french": "Comprendre"
+  },
+  {
+    "infinitive": "win",
+    "simplePast": "won",
+    "pastParticiple": "won",
+    "french": "Gagner"
+  },
+  {
+    "infinitive": "become",
+    "simplePast": "became",
+    "pastParticiple": "become",
+    "french": "Devenir"
+  },
+  {
+    "infinitive": "come",
+    "simplePast": "came",
+    "pastParticiple": "come",
+    "french": "Venir"
+  },
+  {
+    "infinitive": "run",
+    "simplePast": "ran",
+    "pastParticiple": "run",
+    "french": "Courir"
+  }
+]

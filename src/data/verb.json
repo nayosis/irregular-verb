@@ -1,0 +1,755 @@
+[
+  {
+    "infinitive": "arise",
+    "simplePast": "arose",
+    "pastParticiple": "arisen",
+    "french": "Survenir | Se lever"
+  },
+  {
+    "infinitive": "awake",
+    "simplePast": "awakened / awoke",
+    "pastParticiple": "awakened / awoken",
+    "french": "S'éveiller | Éveiller"
+  },
+  {
+    "infinitive": "backslide",
+    "pastParticiple": "backslidden / backslid",
+    "simplePast": "backslid",
+    "french": "Revenir | Retomber | Récidiver"
+  },
+  {
+    "infinitive": "bear",
+    "simplePast": "bore",
+    "pastParticiple": "born / borne",
+    "french": "Porter | Supporter"
+  },
+  {
+    "infinitive": "beat",
+    "simplePast": "beat",
+    "pastParticiple": "beaten / beat",
+    "french": "Battre"
+  },
+  {
+    "infinitive": "begin",
+    "simplePast": "began",
+    "pastParticiple": "begun",
+    "french": "Commencer"
+  },
+  {
+    "infinitive": "bend",
+    "simplePast": "bent",
+    "pastParticiple": "bent",
+    "french": "Plier | Tordre"
+  },
+  {
+    "infinitive": "bid",
+    "simplePast": "bid",
+    "french": "Parier | Faire une enchère"
+  },
+  {
+    "infinitive": "bind",
+    "simplePast": "bound",
+    "pastParticiple": "bound",
+    "french": "Lier | Attacher"
+  },
+  {
+    "infinitive": "bite",
+    "simplePast": "bit",
+    "pastParticiple": "bitten",
+    "french": "Mordre"
+  },
+  {
+    "infinitive": "bleed",
+    "simplePast": "bled",
+    "pastParticiple": "bled",
+    "french": "Saigner"
+  },
+  {
+    "infinitive": "blow",
+    "simplePast": "blew",
+    "pastParticiple": "blown",
+    "french": "Souffler"
+  },
+  {
+    "infinitive": "break",
+    "simplePast": "broke",
+    "pastParticiple": "broken",
+    "french": "Casser | Briser"
+  },
+  {
+    "infinitive": "breed",
+    "simplePast": "bred",
+    "pastParticiple": "bred",
+    "french": "Élever"
+  },
+  {
+    "infinitive": "broadcast",
+    "simplePast": "broadcast / broadcasted",
+    "pastParticiple": "broadcast / broadcasted",
+    "french": "Diffuser | Émettre"
+  },
+  {
+    "infinitive": "browbeat",
+    "simplePast": "browbeat",
+    "pastParticiple": "browbeaten / browbeat",
+    "french": "Intimider"
+  },
+  {
+    "infinitive": "burst",
+    "simplePast": "burst",
+    "pastParticiple": "burst",
+    "french": "Éclater"
+  },
+  {
+    "infinitive": "bust",
+    "simplePast": "busted / bust",
+    "pastParticiple": "busted / bust",
+    "french": "Péter"
+  },
+  {
+    "infinitive": "cast",
+    "simplePast": "cast",
+    "pastParticiple": "cast",
+    "french": "Jeter (un sort) | Mouler (un métal)"
+  },
+  {
+    "infinitive": "cling",
+    "simplePast": "clung",
+    "pastParticiple": "clung",
+    "french": "S'accrocher"
+  },
+  {
+    "infinitive": "creep",
+    "simplePast": "crept",
+    "pastParticiple": "crept",
+    "french": "Ramper | Fluer"
+  },
+  {
+    "infinitive": "crossbreed",
+    "simplePast": "crossbred",
+    "pastParticiple": "crossbred",
+    "french": "Croiser (génétiquement)"
+  },
+  {
+    "infinitive": "deal",
+    "simplePast": "dealt ",
+    "pastParticiple": "dealt",
+    "french": "Gérer"
+  },
+  {
+    "infinitive": "dig",
+    "simplePast": "dug",
+    "pastParticiple": "dug",
+    "french": "Creuser"
+  },
+  {
+    "infinitive": "disprove",
+    "simplePast": "disproved",
+    "pastParticiple": "disproved / disproven",
+    "french": "Réfuter"
+  },
+  {
+    "infinitive": "dive",
+    "simplePast": "dove / dived",
+    "pastParticiple": "dived",
+    "Subtext": "jump head-first",
+    "french": "Plonger"
+  },
+  {
+    "infinitive": "dive",
+    "simplePast": "dived / dove",
+    "pastParticiple": "dived",
+    "Subtext": "scuba diving",
+    "french": "Plonger"
+  },
+  {
+    "infinitive": "flee",
+    "simplePast": "fled",
+    "pastParticiple": "fled",
+    "french": "Fuir"
+  },
+  {
+    "infinitive": "fling",
+    "simplePast": "flung",
+    "pastParticiple": "flung",
+    "french": "Lancer | Jeter"
+  },
+  {
+    "infinitive": "forbid",
+    "simplePast": "forbade",
+    "pastParticiple": "forbidden",
+    "french": "Interdir"
+  },
+  {
+    "infinitive": "forecast",
+    "simplePast": "forecast",
+    "pastParticiple": "forecast",
+    "french": "Prévoir"
+  },
+  {
+    "infinitive": "forego",
+    "simplePast": "forewent",
+    "pastParticiple": "foregone",
+    "french": "Sacrifier"
+  },
+  {
+    "infinitive": "foresee",
+    "simplePast": "foresaw",
+    "pastParticiple": "foreseen",
+    "french": "Imaginer | Voir à l'avance"
+  },
+  {
+    "infinitive": "foretell",
+    "simplePast": "foretold",
+    "pastParticiple": "foretold",
+    "french": "Prédire"
+  },
+  {
+    "infinitive": "forgive",
+    "simplePast": "forgave",
+    "pastParticiple": "forgiven",
+    "french": "Pardonner"
+  },
+  {
+    "infinitive": "forsake",
+    "simplePast": "forsook",
+    "pastParticiple": "forsaken",
+    "french": "Renoncer à"
+  },
+  {
+    "infinitive": "freeze",
+    "simplePast": "froze",
+    "pastParticiple": "frozen",
+    "french": "Geler"
+  },
+  {
+    "infinitive": "frostbite",
+    "simplePast": "frostbit",
+    "pastParticiple": "frostbitten",
+    "french": "Gelure"
+  },
+  {
+    "infinitive": "grind",
+    "simplePast": "ground",
+    "pastParticiple": "ground",
+    "french": "Broyer"
+  },
+  {
+    "infinitive": "hand-feed",
+    "simplePast": "hand-fed",
+    "pastParticiple": "hand-fed",
+    "french": "Nourrir à la main"
+  },
+  {
+    "infinitive": "handwrite",
+    "simplePast": "handwrote",
+    "pastParticiple": "handwritten",
+    "french": "Écrire à la main"
+  },
+  {
+    "infinitive": "hew",
+    "simplePast": "hewed",
+    "pastParticiple": "hewn / hewed",
+    "french": "Tailler (du bois)"
+  },
+  {
+    "infinitive": "inlay",
+    "simplePast": "inlaid",
+    "pastParticiple": "inlaid",
+    "french": "Incruster"
+  },
+  {
+    "infinitive": "input",
+    "simplePast": "input / inputted",
+    "pastParticiple": "input / inputted",
+    "Subtext": "data into a database",
+    "french": "Entrer"
+  },
+  {
+    "infinitive": "interweave",
+    "simplePast": "interwove / interweaved",
+    "pastParticiple": "interwoven / interweaved",
+    "french": "S'entremêler"
+  },
+  {
+    "infinitive": "kneel",
+    "simplePast": "knelt / kneeled",
+    "pastParticiple": "knelt / kneeled",
+    "french": "S'agenouiller"
+  },
+  {
+    "infinitive": "knit",
+    "simplePast": "knitted / knit",
+    "pastParticiple": "knitted / knit",
+    "french": "Tricoter"
+  },
+  {
+    "infinitive": "lay",
+    "simplePast": "laid",
+    "pastParticiple": "laid",
+    "french": "Poser"
+  },
+  {
+    "infinitive": "light",
+    "simplePast": "lit / lighted",
+    "pastParticiple": "lit / lighted",
+    "french": "Éclairer"
+  },
+  {
+    "infinitive": "lip-read",
+    "simplePast": "lip-read",
+    "pastParticiple": "lip-read",
+    "french": "Lire sur les lèvres"
+  },
+  {
+    "infinitive": "mislead",
+    "simplePast": "misled",
+    "pastParticiple": "misled",
+    "french": "Duper"
+  },
+  {
+    "infinitive": "misunderstand",
+    "simplePast": "misunderstood",
+    "pastParticiple": "misunderstood",
+    "french": "Mal comprendre"
+  },
+  {
+    "infinitive": "mow",
+    "simplePast": "mowed",
+    "pastParticiple": "mowed / mown",
+    "french": "Faucher"
+  },
+  {
+    "infinitive": "offset",
+    "simplePast": "offset",
+    "pastParticiple": "offset",
+    "french": "Compenser"
+  },
+  {
+    "infinitive": "outbid",
+    "simplePast": "outbid",
+    "pastParticiple": "outbid",
+    "french": "Surenchérir"
+  },
+  {
+    "infinitive": "outdo",
+    "simplePast": "outdid",
+    "pastParticiple": "outdone",
+    "french": "Surpasser"
+  },
+  {
+    "infinitive": "overlay",
+    "simplePast": "overlaid",
+    "pastParticiple": "overlaid",
+    "french": "Recouvrir"
+  },
+  {
+    "infinitive": "overpay",
+    "simplePast": "overpaid",
+    "pastParticiple": "overpaid",
+    "french": "Surpayer"
+  },
+  {
+    "infinitive": "override",
+    "simplePast": "overrode",
+    "pastParticiple": "overridden",
+    "french": "Outrepasser"
+  },
+  {
+    "infinitive": "overtake",
+    "simplePast": "overtook",
+    "pastParticiple": "overtaken",
+    "french": "Dépasser"
+  },
+  {
+    "infinitive": "overthink",
+    "simplePast": "overthought",
+    "pastParticiple": "overthought",
+    "french": "Trop réfléchir"
+  },
+  {
+    "infinitive": "overthrow",
+    "simplePast": "overthrew",
+    "pastParticiple": "overthrown",
+    "french": "Renverser (un gouvernement)"
+  },
+  {
+    "infinitive": "partake",
+    "simplePast": "partook",
+    "pastParticiple": "partaken",
+    "french": "Participer"
+  },
+  {
+    "infinitive": "pay",
+    "simplePast": "paid",
+    "pastParticiple": "paid",
+    "french": "Payer"
+  },
+  {
+    "infinitive": "plead",
+    "simplePast": "pleaded / pled",
+    "pastParticiple": "pleaded / pled",
+    "french": "Plaider"
+  },
+  {
+    "infinitive": "proofread",
+    "simplePast": "proofread",
+    "pastParticiple": "proofread",
+    "french": "Relire"
+  },
+  {
+    "infinitive": "prove",
+    "simplePast": "proved",
+    "pastParticiple": "proven / proved",
+    "french": "Prouver"
+  },
+  {
+    "infinitive": "relay",
+    "simplePast": "relaid",
+    "pastParticiple": "relaid",
+    "french": "Relayer"
+  },
+  {
+    "infinitive": "remake",
+    "simplePast": "remade",
+    "pastParticiple": "remade",
+    "french": "Rééditer"
+  },
+  {
+    "infinitive": "repay",
+    "simplePast": "repaid",
+    "pastParticiple": "repaid",
+    "french": "Repayer"
+  },
+  {
+    "infinitive": "reset",
+    "simplePast": "reset",
+    "pastParticiple": "reset",
+    "french": "Réinitialiser"
+  },
+  {
+    "infinitive": "rethink",
+    "simplePast": "rethought",
+    "pastParticiple": "rethought",
+    "french": "Reconsidérer"
+  },
+  {
+    "infinitive": "rewind",
+    "simplePast": "rewound",
+    "pastParticiple": "rewound",
+    "french": "Rembobiner"
+  },
+  {
+    "infinitive": "ride",
+    "simplePast": "rode",
+    "pastParticiple": "ridden",
+    "french": "Conduire | Monter"
+  },
+  {
+    "infinitive": "run",
+    "simplePast": "ran",
+    "pastParticiple": "run",
+    "french": "Courir"
+  },
+  {
+    "infinitive": "saw",
+    "simplePast": "sawed",
+    "pastParticiple": "sawed / sawn",
+    "french": "Scier"
+  },
+  {
+    "infinitive": "seek",
+    "simplePast": "sought",
+    "pastParticiple": "sought",
+    "french": "Chercher"
+  },
+  {
+    "infinitive": "sew",
+    "simplePast": "sewed",
+    "pastParticiple": "sewn / sewed",
+    "french": "Coudre"
+  },
+  {
+    "infinitive": "shake",
+    "simplePast": "shook",
+    "pastParticiple": "shaken",
+    "french": "Secouer"
+  },
+  {
+    "infinitive": "shave",
+    "simplePast": "shaved",
+    "pastParticiple": "shaved / shaven",
+    "french": "Raser"
+  },
+  {
+    "infinitive": "shear",
+    "simplePast": "sheared",
+    "pastParticiple": "sheared / shorn",
+    "french": "Cisailler"
+  },
+  {
+    "infinitive": "shed",
+    "simplePast": "shed",
+    "pastParticiple": "shed",
+    "french": "Verser (une larme)"
+  },
+  {
+    "infinitive": "shit",
+    "simplePast": "shit / shat",
+    "pastParticiple": "shit / shitted",
+    "french": "Chier"
+  },
+  {
+    "infinitive": "shoot",
+    "simplePast": "shot",
+    "pastParticiple": "shot",
+    "french": "Tirer (sur quelqu'un)"
+  },
+  {
+    "infinitive": "shrink",
+    "simplePast": "shrank / shrunk",
+    "pastParticiple": "shrunk",
+    "french": "Retrécir"
+  },
+  {
+    "infinitive": "sight-read",
+    "simplePast": "sight-read",
+    "pastParticiple": "sight-read",
+    "french": "Lire à vue (une partition)"
+  },
+  {
+    "infinitive": "sink",
+    "simplePast": "sank / sunk",
+    "pastParticiple": "sunk",
+    "french": "Couler"
+  },
+  {
+    "infinitive": "slay",
+    "simplePast": "slew / slayed",
+    "pastParticiple": "slain / slayed",
+    "Subtext": "kill",
+    "french": "Tuer (avec une épée)"
+  },
+  {
+    "infinitive": "slide",
+    "simplePast": "slid",
+    "pastParticiple": "slid",
+    "french": "Glisser"
+  },
+  {
+    "infinitive": "sling",
+    "simplePast": "slung",
+    "pastParticiple": "slung",
+    "french": "Lancer (des cailloux)"
+  },
+  {
+    "infinitive": "slit",
+    "simplePast": "slit",
+    "pastParticiple": "slit",
+    "french": "Fendre"
+  },
+  {
+    "infinitive": "sneak",
+    "simplePast": "sneaked / snuck",
+    "pastParticiple": "sneaked / snuck",
+    "french": "Se faufiler"
+  },
+  {
+    "infinitive": "sow",
+    "simplePast": "sowed",
+    "pastParticiple": "sown / sowed",
+    "french": "Semer"
+  },
+  {
+    "infinitive": "speed",
+    "simplePast": "sped / speeded",
+    "pastParticiple": "sped / speeded",
+    "french": "Galoper"
+  },
+  {
+    "infinitive": "spend",
+    "simplePast": "spent",
+    "pastParticiple": "spent",
+    "french": "Dépenser"
+  },
+  {
+    "infinitive": "spin",
+    "simplePast": "spun",
+    "pastParticiple": "spun",
+    "french": "Tourner"
+  },
+  {
+    "infinitive": "spit",
+    "simplePast": "spit / spat",
+    "pastParticiple": "spit / spat",
+    "french": "Cracher"
+  },
+  {
+    "infinitive": "split",
+    "simplePast": "split",
+    "pastParticiple": "split",
+    "french": "Fractionner"
+  },
+  {
+    "infinitive": "spoon-feed",
+    "simplePast": "spoon-fed",
+    "pastParticiple": "spoon-fed",
+    "french": "Nourrir à la cuillère"
+  },
+  {
+    "infinitive": "spread",
+    "simplePast": "spread",
+    "pastParticiple": "spread",
+    "french": "Propager"
+  },
+  {
+    "infinitive": "spring",
+    "simplePast": "sprang / sprung",
+    "pastParticiple": "sprung",
+    "french": "Bondir"
+  },
+  {
+    "infinitive": "stick",
+    "simplePast": "stuck",
+    "pastParticiple": "stuck",
+    "french": "Coller"
+  },
+  {
+    "infinitive": "sting",
+    "simplePast": "stung",
+    "pastParticiple": "stung",
+    "french": "Piquer"
+  },
+  {
+    "infinitive": "stink",
+    "simplePast": "stunk / stank",
+    "pastParticiple": "stunk",
+    "french": "Puer"
+  },
+  {
+    "infinitive": "stride",
+    "simplePast": "strode",
+    "pastParticiple": "stridden",
+    "french": "Marcher à grands pas"
+  },
+  {
+    "infinitive": "strike",
+    "simplePast": "struck",
+    "pastParticiple": "struck / stricken",
+    "french": "Frapper"
+  },
+  {
+    "infinitive": "strive",
+    "simplePast": "strove / strived",
+    "pastParticiple": "striven / strived",
+    "french": "Lutter | Aspirer"
+  },
+  {
+    "infinitive": "sublet",
+    "simplePast": "sublet",
+    "pastParticiple": "sublet",
+    "french": "Sous-louer"
+  },
+  {
+    "infinitive": "sweat",
+    "simplePast": "sweat / sweated",
+    "pastParticiple": "sweat / sweated",
+    "french": "Transpirer"
+  },
+  {
+    "infinitive": "swell",
+    "simplePast": "swelled",
+    "pastParticiple": "swollen / swelled",
+    "french": "Gonfler"
+  },
+  {
+    "infinitive": "swing",
+    "simplePast": "swung",
+    "pastParticiple": "swung",
+    "french": "Balancer"
+  },
+  {
+    "infinitive": "tear",
+    "simplePast": "tore",
+    "pastParticiple": "torn",
+    "french": "User"
+  },
+  {
+    "infinitive": "test-drive",
+    "simplePast": "test-drove",
+    "pastParticiple": "test-driven",
+    "french": "Tester un véhicule"
+  },
+  {
+    "infinitive": "thrust",
+    "simplePast": "thrust",
+    "pastParticiple": "thrust",
+    "french": "Pousser | Enfoncer"
+  },
+  {
+    "infinitive": "undertake",
+    "simplePast": "undertook",
+    "pastParticiple": "undertaken",
+    "french": "Entreprendre | Assumer"
+  },
+  {
+    "infinitive": "undo",
+    "simplePast": "undid",
+    "pastParticiple": "undone",
+    "french": "Annuler | Défaire"
+  },
+  {
+    "infinitive": "unfreeze",
+    "simplePast": "unfroze",
+    "pastParticiple": "unfrozen",
+    "french": "Dégeler"
+  },
+  {
+    "infinitive": "uphold",
+    "simplePast": "upheld",
+    "pastParticiple": "upheld",
+    "french": "Maintenir (en place)"
+  },
+  {
+    "infinitive": "upset",
+    "simplePast": "upset",
+    "pastParticiple": "upset",
+    "french": "Contrarier"
+  },
+  {
+    "infinitive": "weave",
+    "simplePast": "wove / weaved",
+    "pastParticiple": "woven / weaved",
+    "french": "Tisser"
+  },
+  {
+    "infinitive": "weep",
+    "simplePast": "wept",
+    "pastParticiple": "wept",
+    "french": "Pleurer | Suinter"
+  },
+  {
+    "infinitive": "wind",
+    "simplePast": "wound",
+    "pastParticiple": "wound",
+    "french": "Enrouler"
+  },
+  {
+    "infinitive": "withdraw",
+    "simplePast": "withdrew",
+    "pastParticiple": "withdrawn",
+    "french": "Retirer (de l'argent)"
+  },
+  {
+    "infinitive": "withhold",
+    "simplePast": "withheld",
+    "pastParticiple": "withheld",
+    "french": "Retenir | Refuser"
+  },
+  {
+    "infinitive": "withstand",
+    "simplePast": "withstood",
+    "pastParticiple": "withstood",
+    "french": "Résister"
+  }
+]

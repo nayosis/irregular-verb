@@ -1,0 +1,207 @@
+[
+  {
+    "infinitive": "be",
+    "simplePast": "was, were",
+    "pastParticiple": "been",
+    "french": "Être"
+  },
+  {
+    "infinitive": "bear",
+    "simplePast": "bore",
+    "pastParticiple": "born | borne",
+    "french": "Porter | Supporter"
+  },
+  {
+    "infinitive": "begin",
+    "simplePast": "began",
+    "pastParticiple": "begun",
+    "french": "Commencer"
+  },
+  {
+    "infinitive": "bite",
+    "simplePast": "bit",
+    "pastParticiple": "bitten",
+    "french": "Mordre"
+  },
+  {
+    "infinitive": "break",
+    "simplePast": "broke",
+    "pastParticiple": "broken",
+    "french": "Casser | Briser"
+  },
+  {
+    "infinitive": "choose",
+    "simplePast": "chose",
+    "pastParticiple": "chosen",
+    "french": "Choisir"
+  },
+  {
+    "infinitive": "draw",
+    "simplePast": "drew",
+    "pastParticiple": "drawn",
+    "french": "Dessiner"
+  },
+  {
+    "infinitive": "drink",
+    "simplePast": "drank",
+    "pastParticiple": "drunk",
+    "french": "Boire"
+  },
+  {
+    "infinitive": "drive",
+    "simplePast": "drove",
+    "pastParticiple": "driven",
+    "french": "Conduire"
+  },
+  {
+    "infinitive": "eat",
+    "simplePast": "ate",
+    "pastParticiple": "eaten",
+    "french": "Manger"
+  },
+  {
+    "infinitive": "fall",
+    "simplePast": "fell",
+    "pastParticiple": "fallen",
+    "french": "Tomber"
+  },
+  {
+    "infinitive": "fly",
+    "simplePast": "flew",
+    "pastParticiple": "flown",
+    "french": "Voler"
+  },
+  {
+    "infinitive": "forget",
+    "simplePast": "forgot",
+    "pastParticiple": "forgotten",
+    "french": "oublier"
+  },
+  {
+    "infinitive": "give",
+    "simplePast": "gave",
+    "pastParticiple": "given",
+    "french": "Donner"
+  },
+  {
+    "infinitive": "go",
+    "simplePast": "went",
+    "pastParticiple": "gone",
+    "french": "Aller"
+  },
+  {
+    "infinitive": "grow",
+    "simplePast": "grew",
+    "pastParticiple": "grown",
+    "french": "Grandir"
+  },
+  {
+    "infinitive": "hide",
+    "simplePast": "hid",
+    "pastParticiple": "hidden",
+    "french": "Cacher"
+  },
+  {
+    "infinitive": "know",
+    "simplePast": "knew",
+    "pastParticiple": "known",
+    "french": "Savoir"
+  },
+  {
+    "infinitive": "lie",
+    "simplePast": "lay",
+    "pastParticiple": "lain",
+    "french": "Mentir"
+  },
+  {
+    "infinitive": "rid",
+    "simplePast": "rid",
+    "pastParticiple": "rid",
+    "french": "Débarasser"
+  },
+  {
+    "infinitive": "ring",
+    "simplePast": "rang",
+    "pastParticiple": "rung",
+    "french": "Sonner"
+  },
+  {
+    "infinitive": "rise",
+    "simplePast": "rose",
+    "pastParticiple": "risen",
+    "french": "Monter | Se lever"
+  },
+  {
+    "infinitive": "see",
+    "simplePast": "saw",
+    "pastParticiple": "seen",
+    "french": "Voir"
+  },
+  {
+    "infinitive": "show",
+    "simplePast": "showed",
+    "pastParticiple": "shown | showed",
+    "french": "Montrer"
+  },
+  {
+    "infinitive": "sing",
+    "simplePast": "sang",
+    "pastParticiple": "sung",
+    "french": "Chanter"
+  },
+  {
+    "infinitive": "speak",
+    "simplePast": "spoke",
+    "pastParticiple": "spoken",
+    "french": "Parler"
+  },
+  {
+    "infinitive": "steal",
+    "simplePast": "stole",
+    "pastParticiple": "stolen",
+    "french": "Voler"
+  },
+  {
+    "infinitive": "swear",
+    "simplePast": "swore",
+    "pastParticiple": "sworn",
+    "french": "Jurer"
+  },
+  {
+    "infinitive": "swim",
+    "simplePast": "swam",
+    "pastParticiple": "swum",
+    "french": "Nager"
+  },
+  {
+    "infinitive": "take",
+    "simplePast": "took",
+    "pastParticiple": "taken",
+    "french": "Prendre"
+  },
+  {
+    "infinitive": "throw",
+    "simplePast": "threw",
+    "pastParticiple": "thrown",
+    "french": "Jeter"
+  },
+  {
+    "infinitive": "wake",
+    "simplePast": "woke | waked",
+    "pastParticiple": "woken | waked",
+    "french": "Réveiller"
+  },
+  {
+    "infinitive": "wear",
+    "simplePast": "wore",
+    "pastParticiple": "worn",
+    "french": "Porter | User",
+    "commentaire": "Porter (un vêtement) | User (un pneu)"
+  },
+  {
+    "infinitive": "write",
+    "simplePast": "wrote",
+    "pastParticiple": "written",
+    "french": "Écrire"
+  }
+]
